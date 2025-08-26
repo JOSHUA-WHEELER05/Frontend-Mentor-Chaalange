@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Links Page</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f2f2f2; text-align: center; margin: 0; padding: 0;">
+
+    <div style="background-color: white; width: 300px; margin: 50px auto; padding: 20px; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+        <img src="https://via.placeholder.com/100" alt="Profile" style="border-radius: 50%; margin-bottom: 15px;">
+        <h2 style="margin: 10px 0;">Joshua Wheeler</h2>
+        <p style="color: gray; font-size: 14px;">Frontend Developer</p>
+
+        <div style="margin-top: 20px;">
+            <a href="https://github.com/JOSHUA-WHEELER05" 
+               style="display: block; background-color: black; color: white; text-decoration: none; padding: 10px; margin: 5px 0; border-radius: 5px;"
+               onmouseover="this.style.backgroundColor='#333';" 
+               onmouseout="this.style.backgroundColor='black';">GitHub</a>
+
+            <a href="https://www.linkedin.com/in/josh-wheeler-a80881350/" 
+               style="display: block; background-color: black; color: white; text-decoration: none; padding: 10px; margin: 5px 0; border-radius: 5px;"
+               onmouseover="this.style.backgroundColor='#333';" 
+               onmouseout="this.style.backgroundColor='black';">LinkedIn</a>
+
+            
+
+            <a href="https://www.instagram.com/josh_wheeler___________/?next=%2F" 
+               style="display: block; background-color: black; color: white; text-decoration: none; padding: 10px; margin: 5px 0; border-radius: 5px;"
+               onmouseover="this.style.backgroundColor='#333';" 
+               onmouseout="this.style.backgroundColor='black';">Instagram</a>
+
+            <a href="https://www.facebook.com/joshua.wheeler.39750" 
+               style="display: block; background-color: black; color: white; text-decoration: none; padding: 10px; margin: 5px 0; border-radius: 5px;"
+               onmouseover="this.style.backgroundColor='#333';" 
+               onmouseout="this.style.backgroundColor='black';">Facebook</a>
+        </div>
+    </div>
+
+</body>
+</html>
